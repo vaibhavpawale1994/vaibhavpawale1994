@@ -9,6 +9,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 •	🌱 I’m currently learning MEAN Stack<br>
 •	💬 Ask me about anything, I am happy to help;<br>
 •	📫 How to reach me: Email - vaibhavpawale19@gmail.com<br>
-•	📝 Resume [resume_Vaibhav_Ravindra_Pawale_2_Years.pdf](https://github.com/vaibhavpawale1994/vaibhavpawale1994/files/6324694/resume_Vaibhav_Ravindra_Pawale_2_Years.pdf)
+•	📝 Resume [Resume.pdf](https://github.com/vaibhavpawale1994/vaibhavpawale1994/files/6324710/Resume.pdf)
 ![code](https://user-images.githubusercontent.com/43311972/115019993-8dda8e00-9ed7-11eb-9957-bcd46709cf52.gif)
 
